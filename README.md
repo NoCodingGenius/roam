@@ -1,5 +1,8 @@
 # Roam (330)
 
+`npm install`
+`npm start`
+
 ## Skills
 
 - Can build a full stack application using Express
